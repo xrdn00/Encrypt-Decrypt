@@ -1,8 +1,6 @@
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 ## THIS WAS DONE
 # pip install cryptography
-# pip install jupyter-notebook
-# pip install ipywidgets
 
 ## removed en and de crypt.py, and merged it into one jupyter-notebook (to avoid a certain (actual) 'hell'  (dependency hell)
 # this is what I talk about! https://www.explainxkcd.com/wiki/index.php/1579:_Tech_Loops)
