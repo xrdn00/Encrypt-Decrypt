@@ -34,6 +34,7 @@ This repository is intended for educational purposes and contains proof-of-conce
 - [Introduction](#introduction)
 - [Screenshots](#screenshots)
 - [Requirements](#requirements)
+- [Tutorial](#tutorial)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -60,6 +61,17 @@ Welcome to the Cryptography Concepts Repository. This repository contains variou
 - [ ] Jupyter Notebook (coming soon)
 
 ---
+
+## Tutorial
+
+### Installing Jupyter to work with the GUI in this repo
+- 1) on windows, download the `exe` file (jupyter notebook) trough anaconda, and just install anaconda, then simply install the 'package' jupyter(and/or jupyter-notebook) (I think jupyter notebook should be included when installing anaconda by default, or at least, jupyter)
+- 2) on windows, install `pip` by installing `Python3` from the Python website. Can be tricky sometimes to find the executable of python3, and windows loves to "redirect you to the MS store", be careful here.
+
+- 1) on linux  `apt install jupyter-notebook  pip`
+- 2) on linux `pip install cryptography`
+
+You *might* need to (on both os) do `pip install  ipywidgets` or Likewise, but, I think it should not even be required.
 
 ## Contributing
 
