@@ -60,8 +60,8 @@ We welcome contributions to this repository! If you have suggestions, improvemen
 Please ensure that your contributions adhere to the repository's guidelines and best practices.
 
 ## License
-
-This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+- [ ] Todo; if licenses are used, and contribution md files, enter them here.
+for example if MIT LICENSE is used - `This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.`
 
 ---
 
