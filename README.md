@@ -58,7 +58,7 @@ Welcome to the Cryptography Concepts Repository. This repository contains variou
 ## Requirements
 
 - Python 3.x
-- [ ] Jupyter Notebook (coming soon)
+- Jupyter Notebook 
 
 ---
 
