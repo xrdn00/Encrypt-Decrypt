@@ -154,7 +154,7 @@ key_input = widgets.Text(
     placeholder='Enter the key',
     description='Key:',
 )
-
+#modified to view the full description
 message_to_hash_input = widgets.Text(
     value='',
     placeholder='Enter message to hash',
