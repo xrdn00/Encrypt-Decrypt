@@ -16,4 +16,3 @@ with open('delta1.png', 'rb') as file:
 
 with open('delta1.png', 'wb') as encrypted_file:
     encrypted_file.write(encrypted)
-
