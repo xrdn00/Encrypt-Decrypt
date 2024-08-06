@@ -159,6 +159,7 @@ message_to_hash_input = widgets.Text(
     value='',
     placeholder='Enter message to hash',
     description='Message to Hash:',
+    style= {'description_width': 'initial'}
 )
 
 # Output area
