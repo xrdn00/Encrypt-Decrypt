@@ -37,6 +37,7 @@ This repository is intended for educational purposes and contains proof-of-conce
 - [Tutorial](#tutorial)
 - [Contributing](#contributing)
 - [License](#license)
+- [Sources](#sources)
 
 ---
 
@@ -49,9 +50,9 @@ Welcome to the Cryptography Concepts Repository. This repository contains variou
 <details>
 <summary>Click to Expand Section: Screenshots</summary>
 
-  ![image](https://github.com/user-attachments/assets/89dd1aef-b625-4f26-b3f8-64a7a7dca77f)
+  ![image](https://github.com/user-attachments/assets/a659708a-ca03-40b9-84f1-e46ffb8a014a)
 
-  ![image](https://github.com/user-attachments/assets/8ea5c8a1-273f-4b66-9837-96123a96805f)
+
   
 </details>
 
@@ -87,6 +88,16 @@ Please ensure that your contributions adhere to the repository's guidelines and 
 ## License
 - [ ] Todo; if licenses are used, and contribution md files, enter them here.
 for example if MIT LICENSE is used - `This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.`
+
+## Sources
+
+- (STACK EXCHANGE) *StackOverflow (for general queries)*
+- (OPENAI) *ChatGPT (for gui and EQUIV. code) (jupyter -> tkinter & vice versa)*
+- (DOCS) *Python Docs (for general docs)*
+- (GITHUB) *Some repos for templates*
+
+
+
 
 ---
 
